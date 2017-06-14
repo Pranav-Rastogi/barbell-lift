@@ -27,4 +27,4 @@ The performance metric used for this project is the standard [*k-fold cross-vali
 ##### Learning method
 The classification method used is a `Random Forest` using [*gini*](https://en.wikipedia.org/wiki/Gini_coefficient) method with `min_impurty_split` or minimum gini level to initiate a split set to 0.1 and a `max_depth` or maximum permissible depth of the decision tree set to 15. The classifier in this project uses all the available CPUs.
 ##### Accuracy score
-The *k-fold cross-validation* used in this project gives the mean accuracy score around **78.79%**
+The *k-fold cross-validation* used in this project gives the mean accuracy score around **78.79%** for `k = 10` and **70.05** for `k = 5`
