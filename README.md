@@ -1,4 +1,4 @@
-# Machine Learning Projet: Barbell lift
+# Machine Learning Project: Barbell lift
 The goal of this project is to use data from various accelerometers to tell if the user performs barbell lifts correctly or incorrectly (5 different ways).
 <br>
 #### The results are:
